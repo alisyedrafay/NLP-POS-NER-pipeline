@@ -92,24 +92,5 @@ python src/ner.py
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👤 Author
-
-**Syed Rafay Ali**
-AI/ML & NLP Enthusiast
-
----
-
 ⭐ If you like this project, don’t forget to star the repo
 
